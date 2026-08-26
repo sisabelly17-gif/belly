@@ -9,3 +9,7 @@
 --titulo:"Playfair Display", serif;
 --texto:"Saira", sans-serif;
 }
+body{
+    background-color: var(--verde-claro);
+    font-family: var(--texto);
+}
